@@ -1,0 +1,9 @@
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-core
+langchain
+chromadb
+pypdf
+pysqlite3-binary
