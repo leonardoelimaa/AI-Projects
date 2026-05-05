@@ -17,6 +17,8 @@
 * Generative AI (GenAI)
 * Chatbots
 * Retrieval-Augmented Generation (RAG)
+* Deploy - docker & AWS
+* AI Agents
 
 <h2 style="color:#E67E22;"> Estrutura do Repositório</h2>
 
