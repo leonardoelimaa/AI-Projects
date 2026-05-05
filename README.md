@@ -22,11 +22,13 @@
 
 ```
 /
-├── Corrigindo-Datasets/
+├── agents
 │   
-├── chatbot-simples-RAG    
+├── fine-tunning    
 │   
-├── machine-learning-Classico   
+├── machine-learning
+│   
+├── rag     
 │   
 ├── LICENSE   
 │   
